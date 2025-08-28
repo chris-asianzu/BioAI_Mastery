@@ -1,0 +1,27 @@
+#When Windows in in Administrator Mode
+cd C:\Users\asian
+
+
+# To activate the Virtual Env
+bioai_mastery\Scripts\activate
+
+
+
+
+# Running CMD Not as Administrator
+
+# Create Virtual env
+python -m venv bioai_mastery
+
+
+# Activate Virtual Env
+bioai_mastery\Scripts\activate     # Windows
+
+
+# Root Project Folder
+cd C:\Users\asian\Documents\Programming\BioAI Mastery\Month_1_Core_ML_Biomedical_Data_Foundations\Week_1_ML_Basics_Python_Refresher
+
+# Launch Jupyter Notebooks
+jupyter notebook
+
+
